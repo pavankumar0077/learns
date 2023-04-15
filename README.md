@@ -72,7 +72,7 @@ Step. 2) App --> Github --> Jenkins -- Dev
             -- Scale up
             -- Scale Down
             
-      ![image](https://user-images.githubusercontent.com/40380941/232178505-177e9959-9b6c-47ec-b547-f3ccbef5c2b1.png)
+   ![image](https://user-images.githubusercontent.com/40380941/232178505-177e9959-9b6c-47ec-b547-f3ccbef5c2b1.png)
 
  
       1. We need to look for automatice setups which are used for scale up and scale down

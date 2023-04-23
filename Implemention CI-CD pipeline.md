@@ -21,4 +21,11 @@ Step1) Download javan, maven and jenkins
       To restart:
       jenkins.exe restart
       
+ Step2) Create a jenkins pipeline job (pipeline)
+ ---
+ ----- Source from git
+       -- main branch   
+       -- public repo no credentials needed (credentials needed only for private repo)
+       -- locate the jenkinsfile path in the github
+       
  
